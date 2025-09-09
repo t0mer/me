@@ -1,0 +1,24 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Klein;Tomer;;;
+FN:Tomer Klein
+ORG:MSD Animal Health Technology Labs
+TITLE:IoT Domain Lead
+TEL;TYPE=CELL:
+TEL;TYPE=WORK:
+TEL;TYPE=HOME:
+TEL;TYPE=MAIN:
+TEL;TYPE=MSG:
+TEL;TYPE=SIGNAL:
+EMAIL;TYPE=WORK:tomer.klein@merck.com
+URL;TYPE=Digital Business Card:
+URL:https://www.msd-animal-health.com/research-and-development-old/technology-labs/
+URL;TYPE=Website:https://www.msd-animal-health.com/research-and-development-old/technology-labs/
+URL;TYPE=WhatsApp:https://wa.me/972502961865
+URL;TYPE=GitHub:https://github.com/t0mer
+URL;TYPE=LinkedIn:https://linkedin.com/in/tomer-klein-4bb8ab24
+URL;TYPE=Medium:https://tomerklein.dev
+KEY;TYPE=PGP;ENCODING=b:
+NOTE:
+UID:EnBizCard-100745666
+END:VCARD
